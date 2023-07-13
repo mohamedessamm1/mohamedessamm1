@@ -1,5 +1,5 @@
 ### Hi there , I'm Mohamed👋
-- 🌱 I’m currently learning IT at faculty of computer and information science MU 
+- 🌱 I’m graduated from faculty of computer and information science MU 
 - 🎯 Future Goals: Learn more technologies - Never stop creating new ideas.
 ## 📫 How to reach me: 
 ---[LinkedIn]
