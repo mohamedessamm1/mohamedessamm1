@@ -13,7 +13,7 @@
 <br>
 <h2>GitHub Stats and Activity 📈</h2>
   <p>
-    <a href="https://github.com/tolbaax/github-readme-streak-stats">
+    <a href="https://github.com/mohamedessamm1/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mohamedessamm1's streak" src="https://streak-stats.demolab.com?user=mohamedessamm1&theme=github-dark-blue"/>
     </a>
   </p>
