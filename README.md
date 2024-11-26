@@ -10,19 +10,6 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more!
 
-<br>
-<h2>GitHub Stats and Activity 📈</h2>
-  <p>
-    <a href="https://github.com/mohamedessamm1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mohamedessamm1's streak" src="https://streak-stats.demolab.com?user=mohamedessamm1&theme=github-dark-blue"/>
-    </a>
-  </p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mohamedessamm1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohamedessamm1&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mohamedessamm1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedessamm1&langs_count=8&layout=compact&theme=github_dark" height="192px"/></a>
-<br/>
-
-
 <br/>
 
 <h2>Languages and Tools 🛠</h2>
